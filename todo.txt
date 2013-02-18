@@ -1,0 +1,6 @@
+* add position to living
+* add "map" command
+* add "move" command
+* add stats to living
+* add "score" command
+* add combat
